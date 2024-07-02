@@ -1,21 +1,14 @@
 ## Hi there 👋
 
-M-Fast
- - Monocular AI
- - 2D Object Detection, 3D Object Detection
+### Who
 
-L-Fast
- - LiDAR AI
- - 3D Object Detection
+- AI Researcher
+- Algorand Maximalist
 
-PyCamera
- - Algorithms for Camera
+### Interest
 
-PyLiDAR
- - Algorithms for LiDAR
-
-tools
- - Tools/Codes for other repos
-
-Others
- - Another Algorithms
+- Computer Vision
+- Deep learning
+- GUI Programming
+- Blockchain
+- Decentralized Storage&Server
